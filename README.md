@@ -44,3 +44,18 @@ This project demonstrates practical application of GRC principles, qualitative r
      - Defense-in-Depth
 
   ## Key Features & Configurations
+  - Qualitative risk scoring (Impact × Likelihood)
+  - Identification of high-risk assets affecting privacy and payment data
+  - Risk register aligned to privacy and payment security compliance
+  - Executive-friendly Power BI dashboard with:
+     - Risk severity distribution
+     - High-risk asset visibility
+     - Compliance-focused insightsz
+  - Actionable, control-based mitigation recommendations
+
+  ## More Enhancements Coming Soon
+  - Quantitative risk scoring model
+  - Automated risk heat maps
+  - Third-party vendor risk assessment module
+  - Incident response and breach notification mapping
+  - Expanded compliance mapping (ISO 27001 / SOC 2)
