@@ -1,4 +1,4 @@
-# IT-Risk-Assessment---ACME-Online-Store-E-Commerce-
+# IT-Risk-Assessment-ACME Online-Store(E-Commerce)
 
 ## Objective
 The objective of this project is to conduct a information security and privacy risk assessment for a e-commerce organization (ACME Online Store). The assessment aims to identify critical information assets, evaluate associated threats and vulnerabilities, assess risk levels, and recommend security controls aligned with PIPEDA and PCI DSS requirements.
